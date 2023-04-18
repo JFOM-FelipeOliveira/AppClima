@@ -1,0 +1,29 @@
+git clone <https://link-com-o-nome-do-repositório>
+
+
+git branch <nome-da-branch>                  #Como criar uma branch
+
+git push -u <local-remoto> <nome-da-branch>  #Enviar a branch para o (github)
+
+git branch ou git branch --list              #Como ver as branches
+
+git branch -d <nome-da-branch>               #Como excluir uma branch
+
+
+git init
+
+git add <arquivo> #Para adicionar um arquivo
+
+git add -A        #Para adicionar todos os arquivos
+
+
+git status #Status da branch/ arquivos adicionados para o push
+
+git commit -m "mensagem do commit"  #Commitar
+
+git push <repositório-remoto> <nome-da-branch>  #Para enviar uma branch
+
+git push -u origin <nome-da-branch> #Para enviar uma branch recém-criada
+
+
+
